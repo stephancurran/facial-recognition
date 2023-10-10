@@ -3,4 +3,5 @@ haarcascade_frontalface_default.xml
 recording.gif
 user_pics/
 face_data.yml
+.venv/
 
